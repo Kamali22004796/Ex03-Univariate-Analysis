@@ -60,48 +60,58 @@ sns.histplot(x="Postal Code", data=df)
 # OUTPUT
 
 # DATA
+![1](https://user-images.githubusercontent.com/120567837/228320149-5e55eba5-9002-4473-97c7-ad68d6f8b9bf.png)
 
-![](1.png)
 
 # DATA HEAD
 
-![](2.png)
+![2](https://user-images.githubusercontent.com/120567837/228320193-71f6506f-ec9e-494c-86ed-19847f6b9d2d.png)
+
 
 # DATA INFORMATION
 
-![](3.png)
+![3](https://user-images.githubusercontent.com/120567837/228320230-b8ed3403-6651-45b2-b195-916cf2cc7c50.png)
+
 
 # DATA DESCRIBE 
 
-![](4.png)
+![4](https://user-images.githubusercontent.com/120567837/228320264-cc8e1a82-72bf-4bd8-8e51-60492af253b2.png)
+
 
 # DATA NULL VALUES
 
-![](5.png)
+![5](https://user-images.githubusercontent.com/120567837/228320284-633287da-6a90-41be-9b93-c93b1768b882.png)
+
 
 # DATA DATA TYPES
 
-![](6.png)
+![6](https://user-images.githubusercontent.com/120567837/228320330-09145f51-61e1-4622-a23c-0e663d46d43f.png)
+
 
 # DATA VALUE COUNT
 
-![](7.png)
+![7](https://user-images.githubusercontent.com/120567837/228320356-26ebe542-2a28-4a6c-a1ce-4eae86276ab0.png)
+
 
 # BOXPLOT
 
-![](8.png)
+![8](https://user-images.githubusercontent.com/120567837/228320407-a0b84471-b8f6-4edf-94c1-bef279f5ca4d.png)
+
 
 # COUNTPLOT
 
-![](9.png)
+![9](https://user-images.githubusercontent.com/120567837/228320447-a52c08d9-420f-40fe-9538-587b8091016b.png)
+
 
 # DISTRIBUTION PLOT
 
-![](10png)
+![10](https://user-images.githubusercontent.com/120567837/228320477-70071f31-c8d2-4916-8199-6a2ace30d14d.png)
+
 
 # HISTOGRAM PLOT
 
-![](11.png)
+![11](https://user-images.githubusercontent.com/120567837/228320510-00b0aeee-3314-4b09-958d-db0da33a8be7.png)
+
 
 # RESULT
 
